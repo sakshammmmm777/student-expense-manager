@@ -1,0 +1,1 @@
+# No external packages are needed. The project uses Python and SQLite.\n
